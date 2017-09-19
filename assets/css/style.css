@@ -287,7 +287,7 @@ input[type=submit] {
 
   .main-section {
     margin: 0 0 40px 20px;
-    max-width: 97%;
+    max-width: 100%;
   }
 
   .sidebar {
